@@ -137,7 +137,7 @@ F-Number:	F-številka:
 File name	Ime datoteke
 File size	Velikost datoteke
 File type	Vrsta datoteke
-Fill paper with crop	Zapolni platno z obrezom
+Fill paper with crop	Zapolni list z obrezom
 Fill with crop	Zapolni z obrezom
 Fill with crop (no zoom)	Zapolni z obrezom (brez povečave)
 Filter:	Filter:
@@ -233,7 +233,7 @@ Original file extension	Izvirna končnica datoteke:
 Original file name (with extension)	Izvirno ime datoteke (s končnico)
 Original file name (without extension)	Izvirno ime datoteke (brez končnice)
 Pan image	Ročno pomakni sliko
-Paper:	Platno:
+Paper:	List:
 Parameter DB	Parameter zbirke podatkov
 Parameter DB error	Napaka zbirke podatkov parametrov
 Parameter DB file '%s' could not be opened!	Datoteke zbirke podatkov parametrov '%s' ni bilo mogoče odpreti!
